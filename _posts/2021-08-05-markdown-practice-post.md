@@ -156,22 +156,22 @@ print("알고리즘을 알고 있니?");
 ### 이미지 삽입
 
 ```markdown
-![](https://justsicklife.com/assets/images/trueman.jpg)
+![](/assets/images/trueman.jpg)
 ```
 
-![](https://justsicklife.com/assets/images/trueman.jpg)
+![](/assets/images/trueman.jpg)
 
 ```markdown
-![](https://justsicklife.com/assets/images/trueman.jpg){: .align-center}
+![](/assets/images/trueman.jpg){: .align-center}
 ```
 
-![](https://justsicklife.com/assets/images/trueman.jpg){: .align-center}
+![](/assets/images/trueman.jpg){: .align-center}
 
 ```markdown
-![](https://justsicklife.com/assets/images/trueman.jpg "트루먼 쇼"){: .align-center}
+![](/assets/images/trueman.jpg "트루먼 쇼"){: .align-center}
 ```
 
-![](https://justsicklife.com/assets/images/trueman.jpg "트루먼 쇼"){: .align-center}
+![](/assets/images/trueman.jpg "트루먼 쇼"){: .align-center}
 
 ### 표 만들기
 
