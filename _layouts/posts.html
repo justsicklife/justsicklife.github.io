@@ -31,4 +31,6 @@ group_by_exp: 'post', 'post.date | date: "%Y"' %} {% for year in postsByYear %}
     &uarr;</a
   >
 </section>
-{% endfor %}
+{% endfor %} {% if page.comments %}
+<div id="post-disqus" class="container">{% include disqus.html %}</div>
+{% endif %}
